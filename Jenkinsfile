@@ -1,10 +1,10 @@
-    pipeline {
-    agent { docker { image 'python:3.5.1' } }
+pipeline {
+    agent {dockerfile true}
     stages {
         stage('build') {
             steps {
-                powershell 'python --version'
+                sh 'python test.py'
             }
         }
-     }
-   }
+    }
+}
