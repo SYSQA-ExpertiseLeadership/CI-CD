@@ -35,7 +35,7 @@ class TestClass():
 
 test = TestClass()
 test.go_to_clickcounter()
-test.repeat()
+test.click_on_counter()
 
 
 
