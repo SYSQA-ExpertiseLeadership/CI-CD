@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="162eda17-cc78-4f21-a9bf-2911ab29bfeb" name="Default Changelist" comment="" />
+    <list default="true" id="162eda17-cc78-4f21-a9bf-2911ab29bfeb" name="Default Changelist" comment="dokerfile -&gt;Dockerfile">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="5fe440f0-916a-417f-b34f-4be5ff79f658" name="dockerfile toegevoegd" comment="dockerfile toegevoegd">
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockerfile" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,8 +205,25 @@
       <option name="project" value="LOCAL" />
       <updated>1582282805433</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="dokerfile -&gt;Dockerfile">
+      <created>1582282925833</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1582282925833</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="eerste commit" />
@@ -224,17 +242,18 @@
     <MESSAGE value="jenkinsfile aangepast" />
     <MESSAGE value="oneindige loop veranderd naar 1x klikken" />
     <MESSAGE value="cherry picked uit vorige veranderingen" />
-    <option name="LAST_COMMIT_MESSAGE" value="cherry picked uit vorige veranderingen" />
+    <MESSAGE value="dokerfile -&gt;Dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="dokerfile -&gt;Dockerfile" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2638" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581082178976">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2638" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581082178976" />
-    <state x="2534" y="114" key="CommitChangelistDialog2" timestamp="1582282889747">
+    <state x="2534" y="114" key="CommitChangelistDialog2" timestamp="1582282954653">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2534" y="114" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582282889747" />
+    <state x="2534" y="114" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582282954653" />
     <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1582282849346">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

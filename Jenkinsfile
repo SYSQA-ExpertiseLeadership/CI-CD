@@ -1,9 +1,11 @@
 pipeline {
-    agent {dockerfile true}
+    agent {
+        docker { image 'node:7-alpine' }
+    }
     stages {
-        stage('build') {
+        stage('Test') {
             steps {
-                sh 'python test.py'
+                sh 'node --version'
             }
         }
     }
